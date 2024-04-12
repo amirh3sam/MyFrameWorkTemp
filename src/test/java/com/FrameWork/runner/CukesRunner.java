@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features" ,
         glue = "com/FrameWork/steps",
         dryRun = false,
-        tags = "@cookie"
+        tags = "@US02"
 )
 public class CukesRunner {
 
